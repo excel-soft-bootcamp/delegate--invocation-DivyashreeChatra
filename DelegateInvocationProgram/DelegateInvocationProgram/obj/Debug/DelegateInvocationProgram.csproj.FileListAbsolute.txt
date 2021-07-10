@@ -1,0 +1,7 @@
+C:\Users\divyashree.chatra\source\repos\DelegateInvocationProgram\DelegateInvocationProgram\bin\Debug\DelegateInvocationProgram.exe.config
+C:\Users\divyashree.chatra\source\repos\DelegateInvocationProgram\DelegateInvocationProgram\bin\Debug\DelegateInvocationProgram.exe
+C:\Users\divyashree.chatra\source\repos\DelegateInvocationProgram\DelegateInvocationProgram\bin\Debug\DelegateInvocationProgram.pdb
+C:\Users\divyashree.chatra\source\repos\DelegateInvocationProgram\DelegateInvocationProgram\obj\Debug\DelegateInvocationProgram.csprojResolveAssemblyReference.cache
+C:\Users\divyashree.chatra\source\repos\DelegateInvocationProgram\DelegateInvocationProgram\obj\Debug\DelegateInvocationProgram.csproj.CoreCompileInputs.cache
+C:\Users\divyashree.chatra\source\repos\DelegateInvocationProgram\DelegateInvocationProgram\obj\Debug\DelegateInvocationProgram.exe
+C:\Users\divyashree.chatra\source\repos\DelegateInvocationProgram\DelegateInvocationProgram\obj\Debug\DelegateInvocationProgram.pdb
