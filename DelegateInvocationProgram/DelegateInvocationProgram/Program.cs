@@ -22,12 +22,14 @@ namespace DelegateInvocationProgram
         {
             obj.Invoke();
             obj2.Invoke("Divya");
-            obj3.Invoke(5);
-            obj4.Invoke("true", "false");
+           int number= obj3.Invoke(5);
+            bool results = obj4.Invoke("true", "false");
             double calculation = obj5.Invoke(6, 6.2);
-            obj6.Invoke(12);
+             obj6.Invoke(2);
             obj7.Invoke("delete");
             Console.WriteLine(calculation);
+            Console.WriteLine(results);
+            Console.WriteLine(number);
 
         }
         static void Main(string[] args)
